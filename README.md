@@ -1,4 +1,4 @@
-# learning Redux
+# Learning Redux
 
 
 (https://www.udemy.com/react-redux/)?

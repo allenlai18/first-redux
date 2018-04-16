@@ -22,3 +22,9 @@ Redux - webpack, redux router,react router, redux promise, redux thunk, hot relo
 "Redux is a predictable state container" . application state
 
 
+steps to use Redux
+--  1. create Reducer which returns application state
+2. implement mapStateToProps(state) in container
+3. create action creators - which returns an action (JS object with {type: "name"})
+4. implements mapDispatchToProps() in container -- it lets actions be passed to reducers
+
